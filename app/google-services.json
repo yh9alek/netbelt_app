@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "582736335048",
+    "project_id": "netbelt-472e1",
+    "storage_bucket": "netbelt-472e1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:582736335048:android:6c097bc599babd2799d5fd",
+        "android_client_info": {
+          "package_name": "com.innovatech.netbeltktz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5GnBWVtDTRFcWL5Uo8svrkXTpg0zi2M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
